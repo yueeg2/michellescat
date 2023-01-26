@@ -1,0 +1,22 @@
+
+.fontLarge {
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 2.5;
+}
+.fontMedium {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.boldBlack {
+  color: #000;
+  font-weight: 600;
+}
+.workroomTabContentText {
+  line-height: 2.5;
+}
+/* .aboutContent {
+  flex: 1 1;
+} */
