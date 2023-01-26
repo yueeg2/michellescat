@@ -30,7 +30,7 @@ export default function Index() {
           <img style={{
             width: 'inherit',
             height: 'inherit',
-          }} src="/images/michelles_cat.png" alt="michelles_cat.png" />
+          }} src="./images/michelles_cat.png" alt="michelles_cat.png" />
         </Paper>
       </Box>
     </>

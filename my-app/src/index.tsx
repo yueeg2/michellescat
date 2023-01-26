@@ -17,7 +17,7 @@ import Preparing from './routes/preparing';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/michellescat/",
     element: <Root />,
     errorElement: <ErrorPage />,
     children: [

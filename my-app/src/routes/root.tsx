@@ -22,7 +22,7 @@ export default function Root() {
 
         <article id="info">
           <h2 title="米歇爾的貓">
-            <Link to={`/`}>•米歇爾的貓•</Link>
+            <Link to={`/michellescat/`}>•米歇爾的貓•</Link>
           </h2>
           <Box sx={{
             paddingBlockEnd: '1rem',
